@@ -77,10 +77,10 @@ Each project includes objectives, authorized scope, prerequisites, lab setup, im
 GitHub Actions, GitLab CI, Semgrep, Gitleaks, Trivy, OWASP ZAP, Checkov, Hadolint, Syft, Cosign, OPA/Conftest, Kubernetes, and disposable sample applications. Tool versions and CI syntax should be checked against the current vendor documentation before use.
 
 ## Progress
-- [ ] Beginner: 0/15
-- [ ] Intermediate: 0/20
-- [ ] Advanced: 0/15
-- [ ] Overall: 0/50
+- [x] Beginner: 15/15
+- [x] Intermediate: 20/20
+- [x] Advanced: 15/15
+- [x] Overall: 50/50
 
 ## Disclaimer
 This repository is for education and defensive engineering. Never test third-party systems or production pipelines without written authorization. Do not commit real credentials, private keys, customer data, or sensitive logs.
